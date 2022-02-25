@@ -1,0 +1,50 @@
+{
+    "root": {
+        "data": {
+            "id": "ci504p22fog0",
+            "created": 1645779465812,
+            "text": "TypeScript"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "ci505d760zs0",
+                    "created": 1645779518364,
+                    "text": "基础篇",
+                    "layout_mind_offset": {
+                        "x": -441,
+                        "y": 34
+                    }
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "ci505v1xpsw0",
+                    "created": 1645779557229,
+                    "text": "vue项目工程篇",
+                    "layout_mind_offset": {
+                        "x": -73,
+                        "y": -131
+                    }
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "ci5090bvmu80",
+                    "created": 1645779803807,
+                    "text": "react项目工程篇",
+                    "layout_mind_offset": {
+                        "x": 456,
+                        "y": 47
+                    }
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
