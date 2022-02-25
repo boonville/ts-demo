@@ -16,7 +16,7 @@
 // }
 
 // let myObj = { size: 10, label: "Size 10 Object" };
-// printLabel(myObj);
+// printLabel(myObj)
 
 // 方式二、
 
